@@ -1,0 +1,79 @@
+Heatran: Earth Power/94.534%
+Heatran: Magma Storm/81.014%
+Heatran: Taunt/67.029%
+Heatran: Toxic/53.736%
+Heatran: Stealth Rock/30.778%
+Heatran: Eruption/12.547%
+Heatran: Flash Cannon/11.697%
+Heatran: Protect/11.153%
+Heatran: Flamethrower/9.158%
+Heatran: Lava Plume/7.291%
+Heatran: Body Press/5.013%
+Heatran: Other/16.05%
+Melmetal: Double Iron Bash/99.489%
+Melmetal: Thunder Punch/71.735%
+Melmetal: Earthquake/59.911%
+Melmetal: Superpower/53.53%
+Melmetal: Ice Punch/40.283%
+Melmetal: Protect/18.789%
+Melmetal: Thunder Wave/17.233%
+Melmetal: Toxic/14.729%
+Melmetal: Substitute/6.651%
+Melmetal: Other/17.649%
+Landorus-Therian: Earthquake/98.529%
+Landorus-Therian: U-turn/74.949%
+Landorus-Therian: Stealth Rock/58.883%
+Landorus-Therian: Toxic/39.229%
+Landorus-Therian: Knock Off/29.985%
+Landorus-Therian: Stone Edge/22.637%
+Landorus-Therian: Swords Dance/20.833%
+Landorus-Therian: Defog/20.44%
+Landorus-Therian: Explosion/12.774%
+Landorus-Therian: Rock Polish/6.21%
+Landorus-Therian: Other/15.53%
+Tapu Lele: Moonblast/96.038%
+Tapu Lele: Focus Blast/90.038%
+Tapu Lele: Psyshock/84.38%
+Tapu Lele: Psychic/74.331%
+Tapu Lele: Calm Mind/11.888%
+Tapu Lele: Thunderbolt/11.374%
+Tapu Lele: Future Sight/10.738%
+Tapu Lele: Thunder/6.997%
+Tapu Lele: Other/14.215%
+Dragapult: U-turn/69.419%
+Dragapult: Draco Meteor/61.418%
+Dragapult: Shadow Ball/58.732%
+Dragapult: Dragon Darts/37.801%
+Dragapult: Flamethrower/30.697%
+Dragapult: Fire Blast/26.467%
+Dragapult: Hex/23.959%
+Dragapult: Dragon Dance/19.098%
+Dragapult: Phantom Force/18.711%
+Dragapult: Will-O-Wisp/9.086%
+Dragapult: Substitute/8.787%
+Dragapult: Thunder Wave/8.661%
+Dragapult: Steel Wing/7.188%
+Dragapult: Other/19.974%
+Garchomp: Earthquake/98.549%
+Garchomp: Stealth Rock/61.489%
+Garchomp: Swords Dance/51.105%
+Garchomp: Scale Shot/36.776%
+Garchomp: Stone Edge/27.747%
+Garchomp: Toxic/23.178%
+Garchomp: Fire Blast/23.153%
+Garchomp: Draco Meteor/18.698%
+Garchomp: Fire Fang/17.535%
+Garchomp: Rest/16.957%
+Garchomp: Dragon Tail/5.906%
+Garchomp: Other/18.906%
+
+
+Volcarona would take out 16.565477865787464% of Blissey's health with Fiery Dance
+
+
+['Dragapult @ Life Orb  \n', 'Ability: Infiltrator  \n', 'EVs: 252 Atk / 4 SpA / 252 Spe  \n', 'Lonely Nature  \n', '- Dragon Darts  \n', '- Phantom Force  \n', '- Fire Blast  \n', '- Dragon Dance  \n', '\n']
+['Tapu Lele @ Choice Specs  \n', 'Ability: Psychic Surge  \n', 'EVs: 252 SpA / 4 SpD / 252 Spe  \n', 'Timid Nature  \n', 'IVs: 0 Atk  \n', '- Moonblast  \n', '- Psychic  \n', '- Focus Blast  \n', '- Psyshock  \n', '\n']
+['Melmetal @ Choice Band  \n', 'Ability: Iron Fist  \n', 'EVs: 252 HP / 252 Atk / 4 SpD  \n', 'Adamant Nature  \n', '- Thunder Punch  \n', '- Double Iron Bash  \n', '- Earthquake  \n', '- Superpower  \n', '\n']
+['Landorus-Therian (M) @ Leftovers  \n', 'Ability: Intimidate  \n', 'EVs: 252 Atk / 4 SpD / 252 Spe  \n', 'Jolly Nature  \n', '- Earthquake  \n', '- U-turn  \n', '- Toxic  \n', '- Knock Off  \n', '\n']
+['Heatran @ Leftovers  \n', 'Ability: Flash Fire  \n', 'EVs: 252 HP / 4 Atk / 252 SpD  \n', 'Sassy Nature  \n', 'IVs: 0 Atk  \n', '- Magma Storm  \n', '- Earth Power  \n', '- Protect  \n', '- Toxic  \n', '\n']
+['Garchomp @ Life Orb  \n', 'Ability: Rough Skin  \n', 'EVs: 252 Atk / 4 SpD / 252 Spe  \n', 'Jolly Nature  \n', '- Earthquake  \n', '- Scale Shot  \n', '- Fire Fang  \n', '- Swords Dance  \n', '\n']

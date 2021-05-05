@@ -1,0 +1,1 @@
+['Heatran', 'Melmetal', 'Landorus-Therian', 'Tapu Lele', 'Dragapult', 'Garchomp']
